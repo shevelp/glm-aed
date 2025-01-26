@@ -91,12 +91,4 @@ Para limpiar los archivos generados temporalmente durante la compilación:
 bash clean.sh
 ```
 
----
-
-## Notas Adicionales
-
-- Si encuentras errores relacionados con permisos o rutas inexistentes, asegúrate de que los directorios requeridos estén creados y de que el script tenga permisos de ejecución.
-- Este proyecto utiliza bibliotecas externas como NetCDF y X11, asegúrate de que las versiones instaladas sean compatibles.
-
-
 
